@@ -125,10 +125,8 @@ The dashboard analyzes hospital data containing information such as:
 
 ## 📷 Dashboard Preview
 
-
-```
 ![image alt](https://github.com/Bhavesh-Marathe016/ClassicModel-Data-Analysis-SQL/blob/18a4b946d8290bb93099319b129b5e3c195f9030/Screenshot%202026-07-09%20155833.png)
-```
+
 
 ---
 
