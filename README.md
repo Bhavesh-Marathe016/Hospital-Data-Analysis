@@ -125,7 +125,7 @@ The dashboard analyzes hospital data containing information such as:
 
 ## 📷 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/Bhavesh-Marathe016/Hospital-Data-Analysis/blob/e05cf2b41d59b2356a41592886daaddf60c814ea/Screenshot%202026-06-13%20143239.png)
 
 
 ---
